@@ -5,3 +5,10 @@ https://earthquake.usgs.gov/fdsnws/event/1/query?format=geojson&starttime=2016-0
 # Data Fetching from internet using public API.
 #Intent navigation from report to specific location of earth quake.
 
+# Screen 1
+![alt text](https://github.com/hmchnd/QuakeReport/blob/master/QuakeReport.JPG)
+
+# Intent navigation to browser on click of app list item
+
+![alt text](https://github.com/hmchnd/QuakeReport/blob/master/QuakeReportIntent.JPG)
+
